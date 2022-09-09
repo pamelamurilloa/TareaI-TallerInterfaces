@@ -1,2 +1,2 @@
-# ProgramacionII
-Tareas y proyectos para el curso.
+# Primer taller
+Taller interfaces
